@@ -1,0 +1,48 @@
+Anki Shortcuts:
+
+Enter Math-Mode:
+press strg + M, M
+
+
+Anki: Nur Karten einzelner Kapitel lernen:
+
+(Falls noch nicht geschehen muss man zuerst den einzelnen Kapiteln Tags/Schlagwörter zuweisen:
+Step 1: Browse
+Step 2: Deck auswählen
+Step 3: Alle Karten aus einem Kapitel auswählen (strg + linksklick)
+Step 4: karten rechtsklicken --> Notes --> Add Tags
+Step 5: Tag reinschreiben (ohne Leerzeichen) und OK drücken
+)
+
+Step 1: In Hauptmenü auf zu lernendes Deck klicken
+Step 2: unten auf "Custom Study" drücken
+Step 3: "Study by Card state or Tag" auswählen
+Step 4: "Choose Tags" drücken und Tags auswählen
+Step 5: "All review cards in random order" auswählen
+(Das sind alle Review Karten (aber keine neuen Karten).
+Kartenfortschritt wird im Hauptdeck gespeichert.
+Durch löschen der Custom Study Session werden alle Karten wieder zum Ursprungsdeck zurückgelegt.
+Kurz vor Prüfungen am besten "All cards in random order(don't reschedule)" auswählen.
+Das sind alle Karten (Neue Karten (new), fällige Karten (due), erst später fällige Karten).
+Außerdem wird der Fortschritt nicht im Hauptdeck gespeichert.)
+
+Wenn man alle zu lernenden Karten in der Custom Study Session haben möchte ("new" and "due"), muss man folgendes Tun:
+Step 1: Custum Study Session erstellen (siehe oben)
+Step 2: "Options" drücken
+Step 3: bei "Filter" in "Search" die Tags folgendermaßen reinschreiben:
+	Bsp.: is:new "deck:Lie Algebren" (tag:LieAlg::Ch1 OR tag:LieAlg::Ch2) OR is:due "deck:Lie Algebren" (tag:LieAlg::Ch1 OR tag:LieAlg::Ch2)
+Step 4: "Rebuild" drücken
+
+
+Unterschied zwischen "Bury Card" und "Suspend Card":
+Suspended stops it from showing up permanently until you reactivate it through the browser.
+Bury just delays it until the next day
+
+
+
+Bin zu Lost um mir das zu merken xd:
+l = press L
+L = press shift + L
+< = press fn + L
+> = press shift + fn + L
+| = press fn + alt gr + L
